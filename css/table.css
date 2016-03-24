@@ -1,0 +1,16 @@
+th {
+	background-color: purple;
+}
+
+tr {
+	background-color: pink;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
